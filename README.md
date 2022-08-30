@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kiansa
 - 👀 I’m interested in E-commerce Development and related projects
-- 🌱 I’m currently learning Vue / Nuxt
-- 💞️ I’m looking to collaborate on small projects
+- 🌱 I mainly work with Vue 3 / Nuxt projects 
+- 💞️ I’m looking to collaborate on projects that use framworks such as Vue 3 / Nuxt / Tailwind
 - 📫 How to reach me ... 
 Email : info@kiansalout.com
 Web: Kiansalout.com
